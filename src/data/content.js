@@ -59,9 +59,9 @@ export const projects = [
 export const gallery = [
   {
     title: "Shop.co — Full Stack E-commerce",
-    thumbnail: "/thumbnail/shopco.png",
-    screenshots: ["/interfaces/shopco/carouselb.png","/interfaces/shopco/detail.png","/interfaces/shopco/rev.png",
-        "/interfaces/shopco/editrev.png","/interfaces/shopco/grid.png","/interfaces/shopco/order.png","/interfaces/shopco/signin.png"],
+    thumbnail: "/thumbnail/shopco.avif",
+    screenshots: ["/interfaces/shopco/carouselw.avif","/interfaces/shopco/detail.avif","/interfaces/shopco/rev.avif",
+        "/interfaces/shopco/editrev.avif","/interfaces/shopco/grid.avif","/interfaces/shopco/order.avif","/interfaces/shopco/signin.avif"],
   },
 ];
 
